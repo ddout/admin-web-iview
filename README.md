@@ -1,6 +1,6 @@
-# weixin4j-admin
+# weixin4j-admin-web
 
-> A Vue.js vue-router vuex iview webpack project
+> A Vue.js vue-router vuex iview webpack demo project 
 
 ## Build Setup
 
@@ -22,3 +22,7 @@ For a detailed explanation on how things work, check out the [guide](http://vuej
 
 ## see to https://cn.vuejs.org/v2/api
 ## see to https://www.iviewui.com/
+
+
+License
+<a href="http://opensource.org/licenses/MIT">MIT</a>
