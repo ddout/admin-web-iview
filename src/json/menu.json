@@ -1,0 +1,73 @@
+[
+	{
+		"id": "menu_2",
+		"name": "menu_2",
+		"icon": "ios-navigate",
+		"child": [
+			{
+				"id": "default_id1",
+				"name": "default_name1",
+				"icon": "ios-navigate",
+				"child": [
+					{
+						"id": "default_id2",
+						"name": "default_name2",
+						"icon": "ios-navigate",
+						"routeName": "222"
+					}, {
+						"id": "default_id3",
+						"name": "default_name3",
+						"icon": "ios-navigate",
+						"routeName": "333"
+					}
+				]
+			}, {
+				"id": "default_id4",
+				"name": "default_name4",
+				"icon": "ios-navigate",
+				"child": [
+					{
+						"id": "default_id5",
+						"name": "default_name5",
+						"icon": "ios-navigate",
+						"routeName": "444"
+					}, {
+						"id": "default_id6",
+						"name": "default_name6",
+						"icon": "ios-navigate",
+						"routeName": "BaseHelloIndex"
+					}
+				]
+			}, {
+				"id": "default_id7",
+				"name": "default_name7",
+				"icon": "ios-navigate",
+				"routeName": "btable"
+			}
+		]
+	}, {
+		"id": "menu_1",
+		"name": "menu_1",
+		"icon": "ios-navigate",
+		"child": [
+			{
+				"id": "default_id8",
+				"name": "default_name8",
+				"icon": "ios-navigate",
+				"child": [
+					{
+						"id": "default_id9",
+						"name": "default_name9",
+						"icon": "ios-navigate",
+						"routeName": "u-9"
+					}, {
+						"id": "default_id10",
+						"name": "default_name10",
+						"icon": "ios-navigate",
+						"routeName": "u-10"
+					}
+				]
+			}
+		]
+	}
+]

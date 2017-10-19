@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/cdhy/!svn/ver/13599/weixin4j/weixin4j-admin-web/build
+END
+vue-loader.conf.js
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/cdhy/!svn/ver/13599/weixin4j/weixin4j-admin-web/build/vue-loader.conf.js
+END
+webpack.base.conf.js
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/cdhy/!svn/ver/13698/weixin4j/weixin4j-admin-web/build/webpack.base.conf.js
+END
+dev-client.js
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/cdhy/!svn/ver/13599/weixin4j/weixin4j-admin-web/build/dev-client.js
+END
+webpack.dev.conf.js
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/cdhy/!svn/ver/13599/weixin4j/weixin4j-admin-web/build/webpack.dev.conf.js
+END
+build.js
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/cdhy/!svn/ver/13599/weixin4j/weixin4j-admin-web/build/build.js
+END
+utils.js
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/cdhy/!svn/ver/13599/weixin4j/weixin4j-admin-web/build/utils.js
+END
+dev-server.js
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/cdhy/!svn/ver/13599/weixin4j/weixin4j-admin-web/build/dev-server.js
+END
+check-versions.js
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/cdhy/!svn/ver/13599/weixin4j/weixin4j-admin-web/build/check-versions.js
+END
+webpack.prod.conf.js
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/cdhy/!svn/ver/13599/weixin4j/weixin4j-admin-web/build/webpack.prod.conf.js
+END
