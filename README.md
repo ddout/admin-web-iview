@@ -1,6 +1,6 @@
-# weixin4j-admin
+# weixin4j-admin-web
 
-> A Vue.js vue-router vuex iview webpack project
+> A Vue.js vue-router vuex iview webpack demo project 
 
 ## Build Setup
 
